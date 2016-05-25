@@ -1,7 +1,7 @@
 # GCDThrottle
 A lightweight GCD wrapper to throttling frequent method calling
 
-# Perpose
+# Purpose
 Throttling frequent method calling with a threshold time interval, for example text searching.
 
 # Usage
