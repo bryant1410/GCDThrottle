@@ -1,3 +1,5 @@
+[🇨🇳中文介绍](https://github.com/cyanzhong/GCDThrottle/blob/master/README_CN.md)
+
 # GCDThrottle
 A lightweight GCD wrapper to throttling frequent method calling
 
