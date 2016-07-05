@@ -1,4 +1,7 @@
 # GCDThrottle
+![Language](https://img.shields.io/badge/language-objc-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 轻量的 GCD 封装，用于过滤太过频繁的方法调用
 
 # 目的
