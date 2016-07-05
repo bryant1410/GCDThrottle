@@ -1,7 +1,10 @@
-🇨🇳[中文介绍](https://github.com/cyanzhong/GCDThrottle/blob/master/README_CN.md)
-
 # GCDThrottle
+![Language](https://img.shields.io/badge/language-objc-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A lightweight GCD wrapper to throttling frequent method calling
+
+🇨🇳[中文介绍](https://github.com/cyanzhong/GCDThrottle/blob/master/README_CN.md)
 
 # Purpose
 Throttling frequent method calling with a threshold time interval, for example text searching.
