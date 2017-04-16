@@ -10,8 +10,8 @@
 # 用法
 
 ```objc
-#import "ViewController.h"
-#import "GCDThrottle.h"
+# import "ViewController.h"
+# import "GCDThrottle.h"
 
 @implementation ViewController
 

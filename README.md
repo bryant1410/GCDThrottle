@@ -12,8 +12,8 @@ Throttling frequent method calling with a threshold time interval, for example t
 # Usage
 
 ```objc
-#import "ViewController.h"
-#import "GCDThrottle.h"
+# import "ViewController.h"
+# import "GCDThrottle.h"
 
 @implementation ViewController
 
